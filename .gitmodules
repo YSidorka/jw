@@ -1,3 +1,6 @@
 [submodule "jw-logger"]
 	path = jw-logger
 	url = https://github.com/YSidorka/jw-logger.git
+[submodule "jw-const"]
+	path = jw-const
+	url = https://github.com/YSidorka/jw-const.git
