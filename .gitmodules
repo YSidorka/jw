@@ -1,0 +1,3 @@
+[submodule "jw-logger"]
+	path = jw-logger
+	url = https://github.com/YSidorka/jw-logger.git

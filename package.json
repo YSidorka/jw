@@ -1,0 +1,18 @@
+{
+  "name": "@jw",
+  "version": "1.0.0",
+  "description": "common repository for development",
+  "author": "YSidorka",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YSidorka/jw.git"
+  },
+  "keywords": [
+    "jw",
+    "job worker",
+    "development"
+  ],
+  "scripts": {
+  }
+}
