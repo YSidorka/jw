@@ -4,3 +4,6 @@
 [submodule "jw-const"]
 	path = jw-const
 	url = https://github.com/YSidorka/jw-const.git
+[submodule "jw-env.config"]
+	path = jw-env.config
+	url = https://github.com/YSidorka/jw-env.config.git
