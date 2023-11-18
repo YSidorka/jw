@@ -7,3 +7,6 @@
 [submodule "jw-env.config"]
 	path = jw-env.config
 	url = https://github.com/YSidorka/jw-env.config.git
+[submodule "jw-data.mongo"]
+	path = jw-data.mongo
+	url = https://github.com/YSidorka/jw-data.mongo.git
